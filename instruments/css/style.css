@@ -19,34 +19,40 @@ h1 {
     background-image: url(../images/guitar.webp);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .drum {
     background-image: url(../images/drum.jpg);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .bass {
     background-image: url(../images/bass.webp);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .flute {
     background-image: url(../images/flute.jpg);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .piano {
     background-image: url(../images/piano.jpg);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .sax {
     background-image: url(../images/sax.avif);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
