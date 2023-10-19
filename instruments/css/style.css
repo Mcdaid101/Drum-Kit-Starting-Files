@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+}
+
+.instrument {
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    margin-top: 150px;
+}
+
+.guitar {
+    background-image: url(../images/guitar.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.drum {
+    background-image: url(../images/drum.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bass {
+    background-image: url(../images/bass.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.flute {
+    background-image: url(../images/flute.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.piano {
+    background-image: url(../images/piano.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.sax {
+    background-image: url(../images/sax.avif);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
